@@ -12,6 +12,8 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=lanisterr)
 
 <br />
+🔭 I’m currently doing my Master's in Computer Application
+👨‍💻 FULL STACK🖤💙💚
 
 hi, i'm Arvindh krisshna, a passionate intermediate full stack web developer from india. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
@@ -39,21 +41,19 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 ```text
 JavaScript   8 hrs 51 mins   ████████████████████▒░░░░   81.41 %
 HTML         1 hr 12 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.16 %
-SCSS         22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 %
-TypeScript   21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.31 %
+NODE         22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 %
+REACT        21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.31 %
 XML          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
-JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
 ```
 
 <!--END_SECTION:waka-->
 
-if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 🚧 **my todoist stats:**
 <!-- TODO-IST:START -->
 🏆  7,995 Karma Points           
 🌸  Completed 0 tasks today           
-✅  Completed 673 tasks so far           
-⏳  Longest streak is 10 days
+✅  Completed 60+ tasks so far           
+⏳  Longest streak is 6 days
 <!-- TODO-IST:END -->
 
