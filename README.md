@@ -12,7 +12,8 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=lanisterr)
 
 <br />
-🔭 I’m currently doing my Master's in Computer Application
+🔭 I’m currently doing my Master's in Computer Application <br>
+
 👨‍💻 FULL STACK🖤💙💚
 
 hi, i'm Arvindh krisshna, a passionate intermediate full stack web developer from india. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
