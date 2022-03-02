@@ -12,7 +12,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=lanisterr)
 
 <br />
-🔭 I’m currently doing my Master's in Computer Application <br>
+🔭 I’m currently doing my master's in computer application <br>
 
 👨‍💻 FULL STACK🖤💙💚
 
